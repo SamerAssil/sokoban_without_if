@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/25 00:01:05.000.248,C:\Users\samerassil\Documents\sokoban1\sokodan.dproj=C:\Users\samerassil\Documents\sokoban1\Project1.dproj</Transaction>
+    <Transaction>2024/01/25 12:53:06.000.746,C:\Users\samerassil\Documents\sokoban1\level1.lvl=</Transaction>
+    <Transaction>2024/01/25 12:53:06.000.856,C:\Users\samerassil\Documents\sokoban1\level2.lvl=</Transaction>
+    <Transaction>2024/01/25 12:53:06.000.903,C:\Users\samerassil\Documents\sokoban1\level3.lvl=</Transaction>
+    <Transaction>2024/02/02 21:07:53.000.692,=C:\Users\samerassil\Documents\sokoban1\levels\level2.lvl</Transaction>
+    <Transaction>2024/02/02 21:07:53.000.659,=C:\Users\samerassil\Documents\sokoban1\levels\level1.lvl</Transaction>
+    <Transaction>2024/02/02 21:07:53.000.740,=C:\Users\samerassil\Documents\sokoban1\levels\level3.lvl</Transaction>
+    <Transaction>2025/01/25 02:46:12.113,C:\Users\samerassil\Documents\sokoban without if\sokoban.dproj=C:\Users\samerassil\Documents\sokoban without if\sokodan.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
